@@ -492,6 +492,11 @@
     "9b8de133": { "sig": "Ro(5,5087,INPUT)", "nClass": "Wg", "sts": 20770, "aliases": ["f0bff6bd"] },
     "8cd7dd12": { "sig": "Go(5,5087,INPUT)", "nClass": "Rs", "sts": 20770, "aliases": ["cd1bd289"] },
     "907ce1cd": { "sig": "Pl(16,2515,INPUT)", "nClass": "Ol", "sts": 20772, "aliases": ["64a89e1b"] },
-    "6bde03ef": { "sig": "Uj(33,6730,INPUT)", "nClass": "Tj", "sts": 20773, "aliases": ["8c82c301"] }
+    "6bde03ef": { "sig": "Uj(33,6730,INPUT)", "nClass": "Tj", "sts": 20773, "aliases": ["8c82c301"] },
+    "c310a3b4": { "sig": "BH(33,6730,INPUT)", "nClass": "ce", "sts": 20773, "aliases": ["dafc92c2"] },
+    "f30b036b": { "sig": "Qc(33,6730,INPUT)", "nClass": "Kl", "sts": 20773, "aliases": ["e4fcbbe6"] },
+    "53caf627": { "sig": "$h(33,6730,INPUT)", "nClass": "Zh", "sts": 20773, "aliases": ["350b473d"] },
+    "f4280e43": { "sig": "Od(19,3722,INPUT)", "nClass": "Nd", "sts": 20774, "aliases": ["6610c732"] },
+    "7425d04e": { "sig": "wc(2,1724,INPUT)", "nClass": "uc", "sts": 20775, "aliases": ["8e0eb251"] }
   }
 }
